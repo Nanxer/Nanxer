@@ -1,4 +1,3 @@
-
 # 👋 你好，我是 Nanxer
 
 <div align="center">
@@ -9,7 +8,7 @@
 
 </div>
 
-## 👤 关于我
+## 🍔 关于我
 
 <div align="center">
 
@@ -37,7 +36,7 @@
 
 **面向版本失配场景的符号表恢复系统**
 
-## ✉️ 联系我
+## 📌 联系我
 
 <div align="center">
 
@@ -53,17 +52,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-
-### 📈 整体统计
-![Nanxer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanxer&show_icons=true&theme=radical)
-
-### 🚀 编程语言使用情况
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanxer&layout=compact&theme=radical)
-
-### 🏆 GitHub 成就
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nanxer&theme=radical&no-frame=true&no-bg=true)
-
-### 📊 活跃度图表
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanxer&theme=github-dark&hide_border=true&area=true)
-
+    <img style="height:150px; border-radius: 30px;" src="https://github-readme-stats.vercel.app/api?username=Nanxer&show_icons=true&theme=radical" />
+    <img style="height:150px; border-radius: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanxer&layout=compact&theme=radical" />
+    <img style="height:150px; border-radius: 30px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Nanxer&theme=github-dark&hide_border=true&area=true" />
+    <img style="height:150px; border-radius: 30px;" src="https://github-profile-trophy.vercel.app/?username=Nanxer&theme=radical&no-frame=true&no-bg=true" />
 </div>
