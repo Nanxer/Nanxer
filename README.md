@@ -1,6 +1,6 @@
-# 👋 你好，我是 Nanxer
-
 <div align="center">
+  
+### 👋 你好，我是 Nanxer
 
 ### 🎓 网络安全爱好者 | ⚔️ CTFer：Crypto，Misc
 
@@ -8,52 +8,8 @@
 
 </div>
 
-## 🍔 关于我
-
-<div align="center">
-
-你好！我是 Nanxer，某不知名大学在读学生，专注于网络安全领域的学习和实践。
-
-我热衷于探索新技术，解决复杂问题，并将创意转化为实际应用。
-
-</div>
-
-## 💻 我的技能
-
-<div align="center">
-
-  ![](https://skillicons.dev/icons?i=python,c,js,html,css,docker,linux)
-
-</div>
-
-## 📁 项目经历
-
-### 🔹 [CTFd 前端美化](https://github.com/Nanxer/CTFd-theme-it4keth2ee)
-
-**赛博朋克风格的 CTFd 前端**
-
-### 🔹 符号表恢复
-
-**面向版本失配场景的符号表恢复系统**
-
-## 📌 联系我
-
-<div align="center">
-
-| 平台 | 链接 |
-|------|------|
-| 📧 邮箱 | wangsz829@foxmail.com |
-| 📍 地点 | Changsha，China |
-| 🌐 个人网站 | [nanxer.it4keth2ee.top](https://nanxer.it4keth2ee.top) |
-| 🐱 GitHub | [GitHub@Nanxer](https://github.com/Nanxer) |
-
-</div>
-
-## 📊 GitHub 统计
-
 <div align="center">
     <img style="height:150px; border-radius: 30px;" src="https://github-readme-stats.vercel.app/api?username=Nanxer&show_icons=true&theme=radical" />
     <img style="height:150px; border-radius: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanxer&layout=compact&theme=radical" />
     <img style="height:150px; border-radius: 30px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Nanxer&theme=github-dark&hide_border=true&area=true" />
-    <img style="height:150px; border-radius: 30px;" src="https://github-profile-trophy.vercel.app/?username=Nanxer&theme=radical&no-frame=true&no-bg=true" />
 </div>
