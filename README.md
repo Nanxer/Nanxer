@@ -1,16 +1,17 @@
-## Hi there 👋
+#### 壹 个人画像
 
-<!--
-**Nanxer/Nanxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是Nanxer，常用昵称也有Z1Z0RE。
 
-Here are some ideas to get you started:
+目前就读于湖南某不知名大学计算机学院本科**网络工程**专业。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+主要参与Crypto和溯源取证，其他方向有所涉猎但不多。
+
+偶尔做做开发，不过是手残党，只能Vibe Coding。
+
+**人生观**、**价值观**等等均正常，热爱每一天的生活。
+
+#### 贰 存活环境
+
+> 开发环境：**Window11** + **Debian13**
+>
+> 样式声明：博客样式借鉴了[Reverier 的数字工坊](https://www.woooo.tech/zh-cn/)
